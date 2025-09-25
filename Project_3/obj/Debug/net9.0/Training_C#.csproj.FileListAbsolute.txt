@@ -1,0 +1,14 @@
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\bin\Debug\net9.0\Training_C#.exe
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\bin\Debug\net9.0\Training_C#.deps.json
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\bin\Debug\net9.0\Training_C#.runtimeconfig.json
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\bin\Debug\net9.0\Training_C#.dll
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\bin\Debug\net9.0\Training_C#.pdb
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\obj\Debug\net9.0\Training_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\obj\Debug\net9.0\Training_C#.AssemblyInfoInputs.cache
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\obj\Debug\net9.0\Training_C#.AssemblyInfo.cs
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\obj\Debug\net9.0\Training_C#.csproj.CoreCompileInputs.cache
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\obj\Debug\net9.0\Training_C#.dll
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\obj\Debug\net9.0\refint\Training_C#.dll
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\obj\Debug\net9.0\Training_C#.pdb
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\obj\Debug\net9.0\Training_C#.genruntimeconfig.cache
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\obj\Debug\net9.0\ref\Training_C#.dll

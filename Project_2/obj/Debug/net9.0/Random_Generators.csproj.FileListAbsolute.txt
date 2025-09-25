@@ -1,0 +1,14 @@
+C:\Users\ch\source\repos\C#Fundamentals\Random_Generators\obj\Debug\net9.0\Random_Generators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ch\source\repos\C#Fundamentals\Random_Generators\obj\Debug\net9.0\Random_Generators.AssemblyInfoInputs.cache
+C:\Users\ch\source\repos\C#Fundamentals\Random_Generators\obj\Debug\net9.0\Random_Generators.AssemblyInfo.cs
+C:\Users\ch\source\repos\C#Fundamentals\Random_Generators\obj\Debug\net9.0\Random_Generators.csproj.CoreCompileInputs.cache
+C:\Users\ch\source\repos\C#Fundamentals\Random_Generators\bin\Debug\net9.0\Random_Generators.exe
+C:\Users\ch\source\repos\C#Fundamentals\Random_Generators\bin\Debug\net9.0\Random_Generators.deps.json
+C:\Users\ch\source\repos\C#Fundamentals\Random_Generators\bin\Debug\net9.0\Random_Generators.runtimeconfig.json
+C:\Users\ch\source\repos\C#Fundamentals\Random_Generators\bin\Debug\net9.0\Random_Generators.dll
+C:\Users\ch\source\repos\C#Fundamentals\Random_Generators\bin\Debug\net9.0\Random_Generators.pdb
+C:\Users\ch\source\repos\C#Fundamentals\Random_Generators\obj\Debug\net9.0\Random_Generators.dll
+C:\Users\ch\source\repos\C#Fundamentals\Random_Generators\obj\Debug\net9.0\refint\Random_Generators.dll
+C:\Users\ch\source\repos\C#Fundamentals\Random_Generators\obj\Debug\net9.0\Random_Generators.pdb
+C:\Users\ch\source\repos\C#Fundamentals\Random_Generators\obj\Debug\net9.0\Random_Generators.genruntimeconfig.cache
+C:\Users\ch\source\repos\C#Fundamentals\Random_Generators\obj\Debug\net9.0\ref\Random_Generators.dll

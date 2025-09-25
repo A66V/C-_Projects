@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CShatp_Basics/1.0.0": {
+        "runtime": {
+          "CShatp_Basics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CShatp_Basics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

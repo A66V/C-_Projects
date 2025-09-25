@@ -1,0 +1,14 @@
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\obj\Debug\net9.0\CShatp_Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\obj\Debug\net9.0\CShatp_Basics.AssemblyInfoInputs.cache
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\obj\Debug\net9.0\CShatp_Basics.AssemblyInfo.cs
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\obj\Debug\net9.0\CShatp_Basics.csproj.CoreCompileInputs.cache
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\bin\Debug\net9.0\CShatp_Basics.exe
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\bin\Debug\net9.0\CShatp_Basics.deps.json
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\bin\Debug\net9.0\CShatp_Basics.runtimeconfig.json
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\bin\Debug\net9.0\CShatp_Basics.dll
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\bin\Debug\net9.0\CShatp_Basics.pdb
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\obj\Debug\net9.0\CShatp_Basics.dll
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\obj\Debug\net9.0\refint\CShatp_Basics.dll
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\obj\Debug\net9.0\CShatp_Basics.pdb
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\obj\Debug\net9.0\CShatp_Basics.genruntimeconfig.cache
+C:\Users\ch\source\repos\C#Fundamentals\CShatp_Basics\obj\Debug\net9.0\ref\CShatp_Basics.dll
